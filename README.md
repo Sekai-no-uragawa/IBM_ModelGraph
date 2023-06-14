@@ -1,5 +1,9 @@
 # IMB_ModelGraph
 
+### Dependencies
+
+GraphViz: used to render graphs as PDF, PNG, SVG, etc. Should be installed separately, using your system's package manager, something similar (e.g., MacPorts), or from its [source](https://gitlab.com/graphviz/graphviz).
+
 ### Installation
 
 1. Clone the repo
