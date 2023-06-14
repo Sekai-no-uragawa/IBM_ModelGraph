@@ -4,7 +4,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Sekai-no-uragawa/IMB_ModelGraph.git
    ```
 2. Install requirements
    ```sh
