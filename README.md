@@ -2,7 +2,7 @@
 
 ### Dependencies
 
-GraphViz: used to render graphs as PDF, PNG, SVG, etc. Should be installed separately, using your system's package manager, something similar (e.g., MacPorts), or from its [source](https://gitlab.com/graphviz/graphviz).
+GraphViz: used to render graphs as PDF, PNG, SVG, etc. Should be installed separately, using your system's package manager, something similar (e.g., MacPorts), or from its [source](https://graphviz.org/download/).
 
 ### Installation
 
